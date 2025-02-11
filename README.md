@@ -14,6 +14,13 @@ pie
     "PHP 🖥": 35
     "HTML 🌐": 25
 ```
+```mermaid
+pie
+    title Programming Skills
+    "Python 🐍": 40
+    "PHP 🖥": 35
+    "HTML 🌐": 25
+```
 📌 My Projects
 ✅ api-free.ir - Free API service for developers
 ✅ Instagram Downloader Telegram Bot
