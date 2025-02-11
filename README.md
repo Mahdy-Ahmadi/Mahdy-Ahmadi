@@ -14,6 +14,24 @@ Hi, I am **Mehdi Ahmadi**, and I was born in **2006**. I love coding and work in
 
 ---
 
+## 🚀 My Skills  
+
+### Python Skills
+```mermaid
+pie
+    title Python Skills
+    "Fast API and Back-end": 70
+    "Django": 20
+    "Flask": 10
+```
+
+```mermaid
+pie
+    title PHP Skills
+    "Server (Web Service) And Robot": 90
+    "PHP Scraps": 5
+    "AI": 5
+```
 ## 📊 GitHub Activity
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdy-Ahmadi&count_private=true&layout=compact&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api?username=Mahdy-Ahmadi&show_icons=true&count_private=true&theme=transparent)
