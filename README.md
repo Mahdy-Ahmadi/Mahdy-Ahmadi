@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💻 مهدی احمدی | توسعه‌دهنده‌ی وب و نرم‌افزار  
 
-<!--
-**Mahdy-Ahmadi/Mahdy-Ahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 سلام! من **مهدی احمدی** هستم، یه توسعه‌دهنده‌ی جوان و پرانرژی از **کرمانشاه**.  
+به برنامه‌نویسی علاقه دارم و در زمینه‌های مختلف کار می‌کنم، از توسعه‌ی وب گرفته تا ساخت API و ربات‌های تلگرام!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 مهارت‌های من  
+
+```mermaid
+pie
+    title مهارت‌های برنامه‌نویسی
+    "Python 🐍": 40
+    "PHP 🖥": 35
+    "HTML 🌐": 25
