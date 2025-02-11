@@ -9,7 +9,7 @@ I love coding and work in different fields, from **web development** to building
 
 ### Python Skills
 ```mermaid
-pie
+bar
     title Python Skills
     "Fast API and Back-end": 70
     "Django": 20
@@ -17,7 +17,7 @@ pie
 ```
 ### PHP Skills
 ```mermaid
-pie
+bar
     title PHP Skills
     "Server (Web Service) And Robot": 90
     "PHP Scraps": 5
