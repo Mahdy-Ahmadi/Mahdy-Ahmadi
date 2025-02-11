@@ -15,17 +15,5 @@ pie
     "HTML 🌐": 25
 
 
-📌 My Projects
-✅ api-free.ir - Free API service for developers
-✅ Instagram Downloader Telegram Bot
-✅ Project Management System with PHP & MySQL
 
-📊 GitHub Activity
-
-📫 Contact Me
-🌐 Website: api-free.ir
-💬 Telegram: @dev_jav
-🔗 Rubika: server_dev
-📦 PyPI: Codern_team
-
-✨ Open to collaborations! Feel free to reach out!
+عهغعغهغهفه
