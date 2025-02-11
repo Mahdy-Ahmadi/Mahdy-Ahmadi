@@ -1,16 +1,16 @@
-# <a href="https://github.com/Bahman-Ahmadi"> Bahman Ahmadi </a>
+# <a href="https://github.com/Codern-team"> Mehdi Ahmadi </a>
 
-Hi, I am Bahman Ahmadi, and I was born in 2007.jan, I love web development, web scrapping, and etc. I started programming in 2020.july, I'm busy with python on flask and anything in the web development world.
+Hi, I am **Mehdi Ahmadi**, and I was born in **2006**. I love coding and work in different fields, from **web development** to building **APIs** and **Telegram bots**! I started programming in **2020**, and I am currently busy with **Python** (Flask, Django) and **PHP** for web development.
 
-<a href="https://t.me/Bprogrammer">
-	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
+<a href="https://t.me/dev_jav">
+	<img align="left" alt="Mehdi Ahmadi | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
 </a>
 <br>
 
 ## My Favorite Technologies
 - **OS**: Linux
 - **Editor**: VS Code
-- **Code**: Python
+- **Code**: Python, PHP
 
 ---
 
@@ -22,7 +22,7 @@ Hi, I am Bahman Ahmadi, and I was born in 2007.jan, I love web development, web 
 
 ## 📫 Contact Me  
 - 🌐 **Website**: [api-free.ir](https://api-free.ir)  
-- 💬 **Telegram**: [@Bprogrammer](https://t.me/Bprogrammer)  
+- 💬 **Telegram**: [@dev_jav](https://t.me/dev_jav)  
 - 🔗 **Rubika**: [server_dev](https://rubika.ir/server_dev)  
 - 📦 **PyPI**: [Codern_team](https://pypi.org/user/Codern_team)  
 
