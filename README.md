@@ -9,9 +9,9 @@ I love coding and work in different fields, from web development to building API
 
 ```mermaid
 pie
-    python me
-    "Fast Api and Back-end": 70
-    "Django ": 20
+    title Python Skills
+    "Fast API and Back-end": 70
+    "Django": 20
     "Flask": 10
 ```
 ```mermaid
