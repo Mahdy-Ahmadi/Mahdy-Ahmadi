@@ -12,8 +12,4 @@ pie
     title Programming Skills
     "Python 🐍": 40
     "PHP 🖥": 35
-    "HTML 🌐": 25
-
-
-
-عهغعغهغهفه
+    "HTML 🌐": 25```
