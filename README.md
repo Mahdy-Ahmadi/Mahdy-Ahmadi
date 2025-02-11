@@ -9,14 +9,14 @@ I love coding and work in different fields, from web development to building API
 
 ```mermaid
 pie
-    python Me
+    python me
     "Fast Api and Back-end": 70
     "Django ": 20
     "Flask": 10
 ```
 ```mermaid
 pie
-    Php Me
+    php me
     "Server ( web Service ) And Robot ": 90
     "PHP Scraps": 5
     "Ai ": 5
