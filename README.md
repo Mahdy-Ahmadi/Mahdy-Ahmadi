@@ -1,35 +1,31 @@
-# 💻 Mahdi Ahmadi | Web & Software Developer  
+# <a href="https://github.com/Bahman-Ahmadi"> Bahman Ahmadi </a>
 
-👋 Hi! I'm **Mahdi Ahmadi**, a passionate developer from **Kermanshah**.  
-I love coding and work in different fields, from **web development** to building **APIs** and **Telegram bots**!  
+Hi, I am Bahman Ahmadi, and I was born in 2007.jan, I love web development, web scrapping, and etc. I started programming in 2020.july, I'm busy with python on flask and anything in the web development world.
+
+<a href="https://t.me/Bprogrammer">
+	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" /> Contact Me
+</a>
+<br>
+
+## My Favorite Technologies
+- **OS**: Linux
+- **Editor**: VS Code
+- **Code**: Python
 
 ---
 
-## 🚀 My Skills  
+## 📊 GitHub Activity
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdy-Ahmadi&count_private=true&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Mahdy-Ahmadi&show_icons=true&count_private=true&theme=transparent)
 
-### Python Skills
-```mermaid
-flowchart LR
-    A["Fast API and Back-end"] --> B[70%]
-    C["Django"] --> D[20%]
-    E["Flask"] --> F[10%]
-```
-### PHP Skills
-```mermaid
-bar
-    title PHP Skills
-    "Server (Web Service) And Robot": 90
-    "PHP Scraps": 5
-    "AI": 5
-```
-📌 My Projects
-✅ api-free.ir - Free API service for developers
-✅ Instagram Downloader Telegram Bot
-✅ Project Management System with PHP & MySQL
-📊 GitHub Activity
-View My GitHub Profile
+---
 
-📫 Contact Me
-🌐 Website: api-free.ir
-💬 Telegram: @dev_jav
-🔗 Rubika: server_dev
+## 📫 Contact Me  
+- 🌐 **Website**: [api-free.ir](https://api-free.ir)  
+- 💬 **Telegram**: [@Bprogrammer](https://t.me/Bprogrammer)  
+- 🔗 **Rubika**: [server_dev](https://rubika.ir/server_dev)  
+- 📦 **PyPI**: [Codern_team](https://pypi.org/user/Codern_team)  
+
+---
+
+✨ **Open to collaborations!** Feel free to reach out!
