@@ -1,15 +1,31 @@
-# 💻 مهدی احمدی | توسعه‌دهنده‌ی وب و نرم‌افزار  
+# 💻 Mahdi Ahmadi | Web & Software Developer  
 
-👋 سلام! من **مهدی احمدی** هستم، یه توسعه‌دهنده‌ی جوان و پرانرژی از **کرمانشاه**.  
-به برنامه‌نویسی علاقه دارم و در زمینه‌های مختلف کار می‌کنم، از توسعه‌ی وب گرفته تا ساخت API و ربات‌های تلگرام!  
+👋 Hi! I'm **Mahdi Ahmadi**, a passionate developer from **Kermanshah**.  
+I love coding and work in different fields, from web development to building APIs and Telegram bots!  
 
 ---
 
-## 🚀 مهارت‌های من  
+## 🚀 My Skills  
 
 ```mermaid
 pie
-    title مهارت‌های برنامه‌نویسی
+    title Programming Skills
     "Python 🐍": 40
     "PHP 🖥": 35
     "HTML 🌐": 25
+
+
+📌 My Projects
+✅ api-free.ir - Free API service for developers
+✅ Instagram Downloader Telegram Bot
+✅ Project Management System with PHP & MySQL
+
+📊 GitHub Activity
+
+📫 Contact Me
+🌐 Website: api-free.ir
+💬 Telegram: @dev_jav
+🔗 Rubika: server_dev
+📦 PyPI: Codern_team
+
+✨ Open to collaborations! Feel free to reach out!
