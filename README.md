@@ -9,17 +9,17 @@ I love coding and work in different fields, from web development to building API
 
 ```mermaid
 pie
-    title Programming Skills
-    "Python 🐍": 40
-    "PHP 🖥": 35
-    "HTML 🌐": 25
+    python Me
+    "Fast Api and Back-end": 70
+    "Django ": 20
+    "Flask": 10
 ```
 ```mermaid
 pie
-    title Programming Skills
-    "Python 🐍": 40
-    "PHP 🖥": 35
-    "HTML 🌐": 25
+    Php Me
+    "Server ( web Service ) And Robot ": 90
+    "PHP Scraps": 5
+    "Ai ": 5
 ```
 📌 My Projects
 ✅ api-free.ir - Free API service for developers
