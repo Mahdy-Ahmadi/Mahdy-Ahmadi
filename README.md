@@ -1,6 +1,6 @@
 # 🎨 Mehdi Ahmadi | Creative GitHub Profile
 
-[![GitHub](https://img.shields.io/badge/GitHub-Codern--team-black?logo=github)](https://github.com/Codern-team)  [![Telegram](https://img.shields.io/badge/Telegram-@dev_jav-blue?logo=telegram)](https://t.me/dev_jav)  [![Rubika](https://img.shields.io/badge/Rubika-server_dev-purple?logo=rubika)](https://rubika.ir/server_dev)  [![Website](https://img.shields.io/badge/Website-api--free.ir-green?logo=google-chrome)](https://api-free.ir)
+[![GitHub](https://img.shields.io/badge/GitHub-Mahdy--Ahmadi-black?logo=github)](https://github.com/Mahdy-Ahmadi)  [![Telegram](https://img.shields.io/badge/Telegram-@dev_jav-blue?logo=telegram)](https://t.me/dev_jav)  [![Rubika](https://img.shields.io/badge/Rubika-server_dev-purple?logo=rubika)](https://rubika.ir/server_dev)  [![Website](https://img.shields.io/badge/Website-api--free.ir-green?logo=google-chrome)](https://api-free.ir)
 
 ---
 
@@ -30,7 +30,7 @@ A passionate programmer born in **2006**, creating **web apps**, **APIs**, **Tel
 
 ### Python Expertise
 ```mermaid
-pie
+barChart
 title Python Skills
 "FastAPI & Backend": 70
 "Django": 20
@@ -39,7 +39,7 @@ title Python Skills
 
 ### PHP Expertise
 ```mermaid
-pie
+barChart
 title PHP Skills
 "Server/Web Services & Bots": 90
 "Scraping & Automation": 5
@@ -60,7 +60,7 @@ title PHP Skills
 
 ---
 
-✨ **Open to collaborations!**
+✨ **Open to collaborations!** 
 Feel free to reach out to create **secure, scalable, and innovative projects** together.
 
 ---
