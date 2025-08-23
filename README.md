@@ -5,7 +5,6 @@
 ---
 
 # Hi! I'm **Mehdi Ahmadi** 👋
-![Profile Image](https://avatars.githubusercontent.com/u/110061390?v=4)
 
 A passionate programmer born in **2006**, creating **web apps**, **APIs**, **Telegram bots**, and exploring **innovative solutions**. I started coding in **2020** and continue to explore new technologies every day.
 
@@ -29,22 +28,10 @@ A passionate programmer born in **2006**, creating **web apps**, **APIs**, **Tel
 ## 🚀 Skills
 
 ### Python Expertise
-```mermaid
-barChart
-title Python Skills
-"FastAPI & Backend": 70
-"Django": 20
-"Flask": 10
-```
+[![FastAPI](https://img.shields.io/badge/FastAPI-70%25-blue?style=for-the-badge)](https://fastapi.tiangolo.com/)  [![Django](https://img.shields.io/badge/Django-20%25-green?style=for-the-badge)](https://www.djangoproject.com/)  [![Flask](https://img.shields.io/badge/Flask-10%25-orange?style=for-the-badge)](https://flask.palletsprojects.com/)
 
 ### PHP Expertise
-```mermaid
-barChart
-title PHP Skills
-"Server/Web Services & Bots": 90
-"Scraping & Automation": 5
-"AI & ML": 5
-```
+[![Server/Web Services & Bots](https://img.shields.io/badge/Server/Web_Bots-90%25-blue?style=for-the-badge)](https://www.php.net/)  [![Scraping & Automation](https://img.shields.io/badge/Scraping/Automation-5%25-green?style=for-the-badge)](https://www.php.net/manual/en/book.curl.php)  [![AI & ML](https://img.shields.io/badge/AI_ML-5%25-purple?style=for-the-badge)](https://www.php.net/)
 
 ---
 
