@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mahdy--Ahmadi-black?logo=github)](https://github.com/Mahdy-Ahmadi)  
 [![Telegram](https://img.shields.io/badge/Telegram-@dev_jav-blue?logo=telegram)](https://t.me/dev_jav)  
-[![Rubika](https://img.shields.io/badge/Rubika-server_dev-purple?logo=rubika)](https://rubika.ir/server_dev)  
+[![Rubika](https://img.shields.io/badge/Rubika-server_dev-purple?logo=rubika)](https://rubika.ir/servers_dev)  
 [![Website](https://img.shields.io/badge/Website-api--free.ir-green?logo=google-chrome)](https://api-free.ir)
 
 ---
