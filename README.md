@@ -1,4 +1,4 @@
-# 🛡️ **Mehdi Ahmadi | Security Architect & Full-Stack Developer**
+# 🛡️ **Mahdi Ahmadi | Security Architect & Full-Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mahdy--Ahmadi-black?logo=github&style=for-the-badge)](https://github.com/Mahdy-Ahmadi)
 [![Telegram](https://img.shields.io/badge/Telegram-@dev_jav-blue?logo=telegram&style=for-the-badge)](https://t.me/dev_jav)
@@ -8,14 +8,45 @@
 
 ---
 
-## ⚡ **Who Am I?**
+## ⚡ **Who Am I?** 
 
 > *"Security is not a product, it's a mindset."*
 
-I'm **Mehdi Ahmadi** — born **2006** | Security Researcher | Python Architect | Full-Stack Engineer  
-Coding since **2020** | OSCP-level mindset | Automation & Exploitation Expert
+I'm **Mahdi Ahmadi** — Professional Security Researcher | Python Security Expert | Full-Stack Engineer  
+**Experience:** Since **2018** | **Age:** 2006 (Started at 12)
 
-🎯 **Mission:** Building **unbreakable systems** while understanding how to break them.
+🎯 **Current Positions:**
+- 🛡️ **Security Responsible** — Jihad University of Kermanshah Website
+- 📱 **Indirect Employee** — Rubika (Security & Development)
+- 🔐 **Certified Ethical Hacker** — Ministry of Technical and Vocational Training
+
+---
+
+## 🎓 **Certifications & Education**
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| **Certified Ethical Hacker** | Ministry of Technical and Vocational Training | ✅ |
+| **Advanced Python Programming** | Jahad University (National) | ✅ |
+| **Python for Hacking & Security** | Jahad University (National) | ✅ |
+| **Server-side Programming (PHP, JS, Python, Web)** | University of Kermanshah | ✅ |
+
+---
+
+## 💼 **Professional Experience**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏢 Rubika (Indirect Employee)                              │
+│  └── Security & Development Consultant                      │
+│                                                              │
+│  🏛️ Jihad University of Kermanshah                          │
+│  └── Website Security Responsible (Primary Role)            │
+│                                                              │
+│  🚀 Freelance Security Researcher & Developer (Since 2018)  │
+│  └── Penetration Testing | API Security | Automation        │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -23,13 +54,12 @@ Coding since **2020** | OSCP-level mindset | Automation & Exploitation Expert
 
 | Domain | Technologies |
 |--------|--------------|
-| **🔐 Security Research** | Penetration Testing, Web Vulnerabilities, Reverse Engineering, Bug Bounty |
-| **🐍 Python Mastery** | Advanced OOP, Metaprogramming, Async, Security Tools, Exploit Dev |
+| **🔐 Security Research** | Penetration Testing, Web Vulnerabilities, Reverse Engineering, Bug Bounty, Ethical Hacking |
+| **🐍 Python Mastery** | Advanced OOP, Metaprogramming, Async, Security Tools, Exploit Dev, Python for Hacking |
 | **🌐 Backend** | FastAPI, Django, Flask, REST, GraphQL, Microservices |
-| **🎨 Frontend** | React, Tailwind, HTMX, Alpine.js |
+| **🖥️ Server-side** | PHP, JavaScript, Python, Node.js |
 | **🗄️ Databases** | PostgreSQL, Redis, MongoDB, SQLite |
-| **🧠 AI/ML** | LLMs, Automation, Scraping at Scale |
-| **☁️ DevOps** | Docker, Nginx, Linux Hardening, CI/CD |
+| **☁️ DevOps & Security** | Docker, Nginx, Linux Hardening, CI/CD, WAF |
 
 ---
 
@@ -43,98 +73,105 @@ Coding since **2020** | OSCP-level mindset | Automation & Exploitation Expert
 
 ---
 
-## 🛠️ **Tech Stack (Deep Dive)**
+## 🛠️ **Technical Arsenal**
 
-### Python — 99th Percentile
+### Python Security Tooling
 ```python
-# Security testing, automation, backend
-- FastAPI | Django | Flask
-- Scrapy | BeautifulSoup | Selenium  
-- Paramiko | Socket | AsyncIO
-- CTF frameworks | Exploit templates
+# Custom security tools & automation
+- Advanced Python for Hacking (Jahad University)
+- Exploit development & payload generation
+- Network scanners & vulnerability detectors
+- Automated bug bounty tools
 ```
 
-### Web Security Arsenal
+### Web Security Expertise
 ```yaml
-- SQLi, XSS, CSRF, SSTI, SSRF, IDOR
-- JWT attacks, Race conditions
-- Subdomain takeover, CORS misconfig
-- Rate limiting bypass, NoSQL injection
+OWASP Top 10: 
+  - SQLi, XSS, CSRF, SSTI, SSRF, IDOR
+  - JWT attacks, Race conditions
+  - Subdomain takeover, CORS misconfig
+  - Rate limiting bypass, NoSQL injection
+
+Tools:
+  - Burp Suite | Nuclei | Nmap | Metasploit
+  - Custom Python scripts for automation
 ```
 
-### Full-Stack Toolchain
+### Full-Stack & Server
 ```
-Frontend: React + Vite + Tailwind  
-Backend:  FastAPI + PostgreSQL + Redis  
-Deploy:   Docker + Gunicorn + Nginx  
-Sec:      Cloudflare + WAF + Rate Limiting  
+Frontend:   React + Tailwind + HTMX
+Backend:    FastAPI + Django + Flask + PHP
+Server:     Nginx + Apache + Linux (Hardened)
+Database:   PostgreSQL + Redis + MongoDB
 ```
 
 ---
 
-## 🔥 **Featured Projects (Security & Scale)**
+## 🔥 **Key Responsibilities**
 
-| Project | Tech Stack | Security Focus |
-|---------|------------|----------------|
-| **API-Free** | FastAPI + Redis | Rate limiting, JWT, SQL injection proof |
-| **Vuln Scanner** | Python + Nuclei | Automated bug bounty recon |
-| **Telegram Bot Army** | Pyrogram + Async | Scalable & encrypted bots |
-| **Custom Payload Generator** | Python + Crypto | WAF bypass & obfuscation |
+| Role | Responsibility |
+|------|----------------|
+| **Jihad University (Kermanshah)** | Full security management of university website |
+| **Rubika** | Security consultation & indirect development |
+| **Freelance** | Penetration testing & secure code review |
 
-> 🔒 *Most repos are private for security reasons. Contact for portfolio access.*
+> 🔒 *Most projects are private due to security and confidentiality agreements.*
 
 ---
 
-## 📊 **Coding Activity**
+## 📊 **Experience Timeline**
 
 ```text
-Python     ████████████████████░  95%
-PHP        ████░░░░░░░░░░░░░░░░  20%
-JavaScript ██████░░░░░░░░░░░░░░  30%
-Shell      ████░░░░░░░░░░░░░░░░  15%
+2018 ──────► Started coding (Age 12)
+2020 ──────► First security findings
+2022 ──────► Python Advanced + Hacking certifications
+2023 ──────► Joined Rubika (Indirect)
+2024 ──────► Security responsible at Jahad University
+2025 ──────► Full-time security research & development
 ```
 
-**Daily average:** 6+ hours of deep coding / research
+**Daily commitment:** 8+ hours of security research & development
 
 ---
 
 ## 🧬 **Security Philosophy**
 
-✅ **Defense in Depth** — Never rely on one layer  
-✅ **Zero Trust** — Assume breach  
-✅ **KISS + Secure** — Complexity is the enemy of security  
-✅ **Open Source but Hardened** — Transparency without vulnerability  
+✅ **Defense in Depth** — Multiple security layers  
+✅ **Zero Trust** — Never trust, always verify  
+✅ **Proactive Security** — Find bugs before attackers  
+✅ **Ethical Disclosure** — Responsible vulnerability reporting  
 
-> *"I don't just write code — I audit, break, then rebuild it stronger."*
-
----
-
-## 🏆 **Certifications & Learning Path**
-
-- 🎓 **Python Mastery** — Advanced (Meta-programming, async, design patterns)
-- 🎓 **Web Security** — OWASP Top 10,实战
-- 🎓 **Linux Hardening** — CIS benchmarks, SELinux, iptables
-- 🎓 **OSCP-style labs** — HTB, PG, CTF platforms
+> *"I protect what matters by understanding how to break it first."*
 
 ---
 
-## 📫 **Contact (Secure Channels Only)**
+## 🏆 **Achievements**
+
+- 🎓 **Certified Ethical Hacker** — Ministry of Technical and Vocational Training
+- 🎓 **Advanced Python** & **Python for Hacking** — Jahad University (National)
+- 🎓 **Server Programming (PHP, JS, Python, Web)** — University of Kermanshah
+- 🛡️ **Security Lead** — Jihad University of Kermanshah Website
+- 📱 **Security Consultant** — Rubika Platform
+
+---
+
+## 📫 **Contact (Secure Channels)**
 
 [![Telegram](https://img.shields.io/badge/Private_TG-@dev_jav-blue?logo=telegram)](https://t.me/dev_jav)  
 [![Rubika](https://img.shields.io/badge/Rubika-Server_dev-purple?logo=rubika)](https://rubika.ir/server_dev)  
-[![PGP Key](https://img.shields.io/badge/PGP-Available-green?logo=keybase)](https://api-free.ir/pgp.txt)  
+[![Email](https://img.shields.io/badge/Email-mehdi@api--free.ir-red?logo=gmail)](mailto:mehdi@api-free.ir)
 
-📧 **Work Inquiries:** `mehdi@api-free.ir`  
 🌐 **Portfolio:** [api-free.ir](https://api-free.ir)
 
 ---
 
-## 🎭 **Beyond Code**
+## 🎯 **Beyond Code**
 
-- 🕵️ CTF player | Bug bounty hunter  
-- 🎧 Heavy metal & synthwave coder  
-- 🧠 Reverse engineering enthusiast  
-- 📚 Writing security articles (soon)
+- 🕵️ Ethical Hacker | CTF Player | Bug Bounty Hunter
+- 🎧 Coding with metal & synthwave
+- 🔬 Reverse Engineering enthusiast
+- 📖 Writing security articles (upcoming)
+- 🎓 Continuous learner (OSCP path)
 
 ---
 
@@ -142,4 +179,6 @@ Shell      ████░░░░░░░░░░░░░░░░  15%
   <img src="https://komarev.com/ghpvc/?username=Mahdy-Ahmadi&label=Profile+Views&color=00ff00&style=flat-square" />
   <br/>
   <i>"The quieter you become, the more you are able to hear." — Unknown</i>
+  <br/>
+  <i>Certified Ethical Hacker | Python Security Expert | Full-Stack Developer</i>
 </p>
