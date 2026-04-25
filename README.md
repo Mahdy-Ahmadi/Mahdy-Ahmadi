@@ -37,13 +37,13 @@ I'm **Mahdi Ahmadi** — Professional Security Researcher | Python Security Expe
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🏢 Rubika (Indirect Employee)                              │
+│   Rubika (Indirect Employee)                                │
 │  └── Security & Development Consultant                      │
-│                                                              │
-│  🏛️ Jihad University of Kermanshah                          │
+│                                                             │
+│   Jihad University of Kermanshah                            │
 │  └── Website Security Responsible (Primary Role)            │
-│                                                              │
-│  🚀 Freelance Security Researcher & Developer (Since 2018)  │
+│                                                             │
+│   Freelance Security Researcher & Developer (Since 2018)    │
 │  └── Penetration Testing | API Security | Automation        │
 └─────────────────────────────────────────────────────────────┘
 ```
